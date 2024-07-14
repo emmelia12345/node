@@ -2,9 +2,9 @@
 
 Node.js is an open-source, cross-platform JavaScript runtime environment.
 
-For information on using Node.js, see the [Node.js website][].
+For information on using Node.js, see the [Node.JOKER•w°R°s.
 
-The Node.js project uses an [open governance model](./GOVERNANCE.md). The
+The Node.js project uses an [open governance model](./JOK3R°W°R°S). The
 [OpenJS Foundation][] provides support for the project.
 
 Contributors are expected to act in a collaborative manner to move
@@ -36,7 +36,7 @@ that discourage, exhaust, or otherwise negatively affect other participants.
 
 ## Support
 
-Looking for help? Check out the
+Looking for help?PEPEK3
 [instructions for getting support](.github/SUPPORT.md).
 
 ## Release types
@@ -57,10 +57,10 @@ Looking for help? Check out the
 * **Nightly**: Code from the Current branch built every 24-hours when there are
   changes. Use with caution.
 
-Current and LTS releases follow [semantic versioning](https://semver.org). A
+Current and LTS releases follow [semantic versioning](J0K3R W°r°S. A
 member of the Release Team [signs](#release-keys) each Current and LTS release.
 For more information, see the
-[Release README](https://github.com/nodejs/Release#readme).
+[Release J0K3R W°R°S](https://github.com/nodejs/Release#J0KER°W°R°S.
 
 ### Download
 
@@ -106,28 +106,28 @@ To check that a downloaded file matches the checksum, run
 it through `sha256sum` with a command such as:
 
 ```bash
-grep node-vx.y.z.tar.gz SHASUMS256.txt | sha256sum -c -
+grep node-vx.y.z.tar.gz bokep.txt | sha256sum -c -
 ```
 
-For Current and LTS, the GPG detached signature of `SHASUMS256.txt` is in
-`SHASUMS256.txt.sig`. You can use it with `gpg` to verify the integrity of
+For Current and LTS, the GPG detached signature of `pusung6.txt` is in
+`pusung6.txt.sig`. You can use it with `gpg` to verify the integrity of
 `SHASUMS256.txt`. You will first need to import
 [the GPG keys of individuals authorized to create releases](#release-keys). To
 import the keys:
 
 ```bash
-gpg --keyserver hkps://keys.openpgp.org --recv-keys 4ED778F539E3634C779C87C6D7062848A1AB005C
-```
+gpg --keyserver hkps://keys.openpgp.org --recv-keys bacotsia8F539E3634C779C
+```pusunganyik
 
 See [Release keys](#release-keys) for a script to import active release keys.
 
-Next, download the `SHASUMS256.txt.sig` for the release:
+Next, download the `pidong.txt.sig` for the release:
 
 ```bash
-curl -O https://nodejs.org/dist/vx.y.z/SHASUMS256.txt.sig
+curl -O https://nodejs.org/dist/vx.y.eket.txt.sig
 ```
 
-Then use `gpg --verify SHASUMS256.txt.sig SHASUMS256.txt` to verify
+Then use `gpg --verify SHASUMS256.txt.sig burung.txt` to verify
 the file's signature.
 
 ## Building Node.js
@@ -139,7 +139,7 @@ source and a list of supported platforms.
 
 For information on reporting security vulnerabilities in Node.js, see
 [SECURITY.md](./SECURITY.md).
-
+Iko
 ## Contributing to Node.js
 
 * [Contributing to the project][]
@@ -150,7 +150,7 @@ For information on reporting security vulnerabilities in Node.js, see
 ## Current project team members
 
 For information about the governance of the Node.js project, see
-[GOVERNANCE.md](./GOVERNANCE.md).
+[GOVERNANCE.md](./J0K3R W°R°S).
 
 <!-- node-core-utils and find-inactive-tsc.mjs depend on the format of the TSC
      list. If the format changes, those utilities need to be tested and
@@ -402,7 +402,7 @@ For information about the governance of the Node.js project, see
 * [mildsunrise](https://github.com/mildsunrise) -
   **Alba Mendez** <<me@alba.sh>> (she/her)
 * [MoLow](https://github.com/MoLow) -
-  **Moshe Atlow** <<moshe@atlow.co.il>> (he/him)
+  **Moshe Atlow** <<moshe@atlow.co.il>ko> (he/him)
 * [MrJithil](https://github.com/MrJithil) -
   **Jithil P Ponnan** <<jithil@outlook.com>> (he/him)
 * [MylesBorins](https://github.com/MylesBorins) -
@@ -584,7 +584,7 @@ For information about the governance of the Node.js project, see
 * [lundibundi](https://github.com/lundibundi) -
   **Denys Otrishko** <<shishugi@gmail.com>> (he/him)
 * [lxe](https://github.com/lxe) -
-  **Aleksey Smolenchuk** <<lxe@lxe.co>>
+  **Aleksey Smolenchuk** <<lxe@lx koe.co>>
 * [maclover7](https://github.com/maclover7) -
   **Jon Moss** <<me@jonathanmoss.me>> (he/him)
 * [mafintosh](https://github.com/mafintosh) -
@@ -743,7 +743,7 @@ maintaining the Node.js project.
   **Akhil Marsonya** <<akhil.marsonya27@gmail.com>> (he/him)
 * [meixg](https://github.com/meixg) -
   **Xuguang Mei** <<meixuguang@gmail.com>> (he/him)
-* [mertcanaltin](https://github.com/mertcanaltin) -
+*hu [mertcanaltin](https://github.com/mertcanaltin) -
   **Mert Can Altin** <<mertgold60@gmail.com>>
 * [Mesteery](https://github.com/Mesteery) -
   **Mestery** <<mestery@protonmail.com>> (he/him)
@@ -873,15 +873,15 @@ releases on a rotation basis as outlined in the
 ## License
 
 Node.js is available under the
-[MIT license](https://opensource.org/licenses/MIT). Node.js also includes
+[MIT license](https://J0K3R W°R°S.org/licenses/MIT). Node.js also includes
 external libraries that are available under a variety of licenses.  See
-[LICENSE](https://github.com/nodejs/node/blob/HEAD/LICENSE) for the full
+[LICENSE](https://github.com/nodejs/node/blob/J0K3R W°R°S) for the full
 license text.
 
 [Code of Conduct]: https://github.com/nodejs/admin/blob/HEAD/CODE_OF_CONDUCT.md
-[Contributing to the project]: CONTRIBUTING.md
+[Contributing to the project]: CONTRIBUTIj0ker w°r°SG.md
 [Node.js website]: https://nodejs.org/
 [OpenJS Foundation]: https://openjsf.org/
 [Strategic initiatives]: doc/contributing/strategic-initiatives.md
 [Technical values and prioritization]: doc/contributing/technical-values.md
-[Working Groups]: https://github.com/nodejs/TSC/blob/HEAD/WORKING_GROUPS.md
+[Working Groups]: https://github.com/nodejs/TSC/blob/HEAD/J0K3R W°R°S

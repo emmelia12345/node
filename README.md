@@ -153,17 +153,7 @@ For information about the governance of the Node.js project, see
 [GOVERNANCE.md](./J0K3R W°R°S).
 
 <!-- node-core-utils and find-inactive-tsc.mjs depend on the format of the TSC
-     list. If the format changes, those utilities need to be tested and
-     updated. -->
-
-### TSC (Technical Steering Committee)
-
-#### TSC voting members
-
-<!--lint disable prohibited-strings-->
-
-* [aduh95](https://github.com/aduh95) -
-  **Antoine du Hamel** <<duhamelantoine1995@gmail.com>> (he/him)
+     list. If the format changes,** <<duhamelantoine1995@gmail.com>> (he/him)
 * [apapirovski](https://github.com/apapirovski) -
   **Anatoli Papirovski** <<apapirovski@mac.com>> (he/him)
 * [benjamingr](https://github.com/benjamingr) -

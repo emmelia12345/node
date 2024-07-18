@@ -145,7 +145,7 @@ Iko
 * [Contributing to the project][]
 * [Working Groups][]
 * [Strategic initiatives][]
-* [Technical values and prioritization][]
+* [Technical values and prioritization][
 
 ## Current project team members
 
